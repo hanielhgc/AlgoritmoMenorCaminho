@@ -1,0 +1,71 @@
+Matriz de Adjacência:
+
+Gerando primeiro caminho aleatório: 
+
+Estado H é adjacente.
+Estado I é adjacente.
+Caminho Escolhido: H de custo 3
+-------
+Estado E é adjacente.
+Estado F é adjacente.
+Estado G é adjacente.
+Caminho Escolhido: E de custo 1
+-------
+Estado B é adjacente.
+Estado C é adjacente.
+Estado D é adjacente.
+Caminho Escolhido: D de custo 4
+-------
+Estado A é adjacente.
+Caminho Escolhido: A de custo 2
+-------
+Experimentando 20 novos resultados.
+Experimentando perturbações.
+Encontrado novo caminho de melhor desempenho.
+Experimentando perturbações.
+Encontrado novo caminho de melhor desempenho.
+Experimentando perturbações.
+Resultado anterior permanece.
+Experimentando perturbações.
+Resultado anterior permanece.
+Experimentando perturbações.
+Encontrado novo caminho de melhor desempenho.
+Experimentando perturbações.
+Resultado anterior permanece.
+Experimentando perturbações.
+Resultado anterior permanece.
+Experimentando perturbações.
+Resultado anterior permanece.
+Experimentando perturbações.
+Resultado anterior permanece.
+Experimentando perturbações.
+Resultado anterior permanece.
+Experimentando perturbações.
+Resultado anterior permanece.
+Experimentando perturbações.
+Resultado anterior permanece.
+Experimentando perturbações.
+Resultado anterior permanece.
+Experimentando perturbações.
+Encontrado novo caminho de melhor desempenho.
+Experimentando perturbações.
+Resultado anterior permanece.
+Experimentando perturbações.
+Resultado anterior permanece.
+Experimentando perturbações.
+Resultado anterior permanece.
+Experimentando perturbações.
+Resultado anterior permanece.
+Experimentando perturbações.
+Resultado anterior permanece.
+Experimentando perturbações.
+Resultado anterior permanece.
+Resultado final:
+Caminho: I de custo 4
+-------
+Caminho: E de custo 4
+-------
+Caminho: B de custo 6
+-------
+Caminho: A de custo 4
+-------

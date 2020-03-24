@@ -1,0 +1,11 @@
+C:\Users\Haniel\source\repos\AlgoritmoMenorCaminho\HillClimbing\bin\Debug\netcoreapp3.1\HillClimbing.exe
+C:\Users\Haniel\source\repos\AlgoritmoMenorCaminho\HillClimbing\bin\Debug\netcoreapp3.1\HillClimbing.deps.json
+C:\Users\Haniel\source\repos\AlgoritmoMenorCaminho\HillClimbing\bin\Debug\netcoreapp3.1\HillClimbing.runtimeconfig.json
+C:\Users\Haniel\source\repos\AlgoritmoMenorCaminho\HillClimbing\bin\Debug\netcoreapp3.1\HillClimbing.runtimeconfig.dev.json
+C:\Users\Haniel\source\repos\AlgoritmoMenorCaminho\HillClimbing\bin\Debug\netcoreapp3.1\HillClimbing.dll
+C:\Users\Haniel\source\repos\AlgoritmoMenorCaminho\HillClimbing\bin\Debug\netcoreapp3.1\HillClimbing.pdb
+C:\Users\Haniel\source\repos\AlgoritmoMenorCaminho\HillClimbing\obj\Debug\netcoreapp3.1\HillClimbing.csprojAssemblyReference.cache
+C:\Users\Haniel\source\repos\AlgoritmoMenorCaminho\HillClimbing\obj\Debug\netcoreapp3.1\HillClimbing.AssemblyInfoInputs.cache
+C:\Users\Haniel\source\repos\AlgoritmoMenorCaminho\HillClimbing\obj\Debug\netcoreapp3.1\HillClimbing.AssemblyInfo.cs
+C:\Users\Haniel\source\repos\AlgoritmoMenorCaminho\HillClimbing\obj\Debug\netcoreapp3.1\HillClimbing.dll
+C:\Users\Haniel\source\repos\AlgoritmoMenorCaminho\HillClimbing\obj\Debug\netcoreapp3.1\HillClimbing.pdb

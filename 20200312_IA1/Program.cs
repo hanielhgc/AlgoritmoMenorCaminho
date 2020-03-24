@@ -10,6 +10,7 @@ namespace _20200312_IA1
         {
 
 
+
             int?[,] matrizAdjacencia = new int?[,] { { null, 2, 4, 2, null, null,null,null,null,null },
                                                      { null, null, null, null, 7, 4, 6, null,null,null},
                                                      { null, null, null, null, 3, 2, 4, null, null, null },
@@ -72,6 +73,45 @@ namespace _20200312_IA1
             }
 
 
+            //Console.WriteLine("\n Segunda parte - Hill Climbing: \n");
+
+            ////segunda parte (hill climbing)
+
+            //int linhaAtual2 = 0;
+
+            //while (true)
+            //{
+
+            //    if (linhaAtual2 >= Constantes.estados.Count) {
+                    
+            //        break;
+                
+            //    }
+
+            
+
+            //List<int> intervalo = new List<int>();
+            //Caminho caminho2 = new Caminho();
+
+            //for (int i = 0; i < Constantes.estados.Count; i++)
+            //{
+
+            //    if (matrizAdjacencia[linhaAtual2, i]!=null)
+            //    {
+
+            //        intervalo.Add(i);
+            //    }
+
+            //}
+
+            //    Random r = new Random();
+            //int rInt = r.Next(intervalo.First(), intervalo.Last()+1); //for ints
+
+            //Console.WriteLine("Caminho escolhido: "+Constantes.estados[rInt]+" de custo "+matrizAdjacencia[linhaAtual2, rInt]);
+
+            //    linhaAtual2 +=1;
+
+            //}
 
 
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Haniel\\source\\repos\\20200312_IA1\\20200312_IA1\\20200312_IA1.csproj": {}
+    "C:\\Users\\Haniel\\Source\\Repos\\AlgoritmoMenorCaminho\\20200312_IA1\\20200312_IA1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Haniel\\source\\repos\\20200312_IA1\\20200312_IA1\\20200312_IA1.csproj": {
+    "C:\\Users\\Haniel\\Source\\Repos\\AlgoritmoMenorCaminho\\20200312_IA1\\20200312_IA1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Haniel\\source\\repos\\20200312_IA1\\20200312_IA1\\20200312_IA1.csproj",
+        "projectUniqueName": "C:\\Users\\Haniel\\Source\\Repos\\AlgoritmoMenorCaminho\\20200312_IA1\\20200312_IA1.csproj",
         "projectName": "20200312_IA1",
-        "projectPath": "C:\\Users\\Haniel\\source\\repos\\20200312_IA1\\20200312_IA1\\20200312_IA1.csproj",
+        "projectPath": "C:\\Users\\Haniel\\Source\\Repos\\AlgoritmoMenorCaminho\\20200312_IA1\\20200312_IA1.csproj",
         "packagesPath": "C:\\Users\\Haniel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Haniel\\source\\repos\\20200312_IA1\\20200312_IA1\\obj\\",
+        "outputPath": "C:\\Users\\Haniel\\Source\\Repos\\AlgoritmoMenorCaminho\\20200312_IA1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Haniel\\AppData\\Roaming\\NuGet\\NuGet.Config",
